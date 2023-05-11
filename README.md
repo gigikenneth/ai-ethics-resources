@@ -27,4 +27,9 @@
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
 - [All Tech is Human](https://alltechishuman.org/)
 - [Center for AI and Data Policy](https://www.caidp.org/about-2/contact/)
-- 
+- [The EU AI Act Newsletter](https://artificialintelligenceact.substack.com/?utm_source=substack&utm_medium=email)
+- [Montreal AI Ethics Institute](https://montrealethics.ai/)
+- [Motherboard Tech](https://link1.vice.com/join/6qz/signup-motherboard)
+- [MIT Technology Review](https://www.technologyreview.com/newsletter-preferences/)
+- [Politico’s Digital Bridge](https://www.politico.eu/registration/?utm_source=POLITICO.EU&utm_campaign=a1318cd59c-EMAIL_CAMPAIGN_2023_05_04_11_30&utm_medium=email&utm_term=0_10959edeb5-a1318cd59c-%5BLIST_EMAIL_ID%5D)
+- [Upturn](https://upturn.us7.list-manage.com/subscribe?u=10d58128048e680886e21359f&id=92be680437)
