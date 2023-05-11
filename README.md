@@ -24,7 +24,7 @@
 - [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 - [Global AI Ethics Institute](https://globalethics.ai/)
 - [International Observatory on the Societal Impacts of AI and Digital Technology (OBVIA)](https://observatoire-ia.ulaval.ca/) - mostly in French
-- 
+
 
 ## Newsletters 🗞️
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
@@ -43,4 +43,4 @@
 
 ## Communities 🫂
 - [Inside AI](https://inside.com/ai)
-- 
+- [Distributed AI Research Institute](https://www.dair-institute.org/)
