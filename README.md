@@ -41,6 +41,6 @@
 - [Eye on AI](https://www.eye-on.ai/)
 - [Policy.ai](https://cset.georgetown.edu/newsletters)
 
-## Community 🫂
+## Communities 🫂
 - [Inside AI](https://inside.com/ai)
 - 
