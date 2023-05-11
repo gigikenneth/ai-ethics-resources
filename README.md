@@ -1,15 +1,23 @@
 # Resources on AI Ethics 🤖🌟
 
-## Books, Papers & Articles 📚
+## Books 📚
 - [AI Ethicist: Algorithmic Bias Books, Ethical AI Books, AI Ethics Podcasts | AI Ethicist](https://www.aiethicist.org/recommended-books-podcasts-journals)
 - [Holistic AI: The State of Global AI Regulations in 2023](holisticai.com/papers/the-state-of-ai-regulations-in-2023)
+
+## Papers 📄
 - [Applying a principle of explicability to AI research in Africa: should we do it?](https://link.springer.com/article/10.1007/s10676-020-09534-2)
-- [US Federal Government AI Use Cases](https://www.responsible.ai/post/federal-government-ai-use-cases)
-- [Dr. Ravit Dotan's AI Ethics Resources](https://www.ravitdotan.com/resources)
-- [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
 - [AI4People-An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://pubmed.ncbi.nlm.nih.gov/30930541/)
 - [Applying a principle of explicability to AI research in Africa: should we do it?](https://link.springer.com/article/10.1007/s10676-020-09534-2)
+- [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
+
+## Articles 📝
+- [US Federal Government AI Use Cases](https://www.responsible.ai/post/federal-government-ai-use-cases)
+- [Dr. Ravit Dotan's AI Ethics Resources](https://www.ravitdotan.com/resources)
 - [How artificial intelligence is recolonising the Global South](https://www.themintmagazine.com/how-artificial-intelligence-is-recolonising-the-global-south/)
+- [AI ethics’ are doomed to failure - Part 1](https://www.the-yuan.com/494/-AI-ethics-are-doomed-to-failure-Part-1.html)
+- [Can We Form Relationships With AI Powered Robots?](https://becominghuman.ai/can-we-form-relationships-with-ai-powered-robots-3c9dc2576894)
+- [Ethics of AI: Going Beyond Words](https://www.the-yuan.com/246/Ethics-of-AI-Going-Beyond-Words.html)
+- [The key to responsible AI development](https://www.the-yuan.com/577/The-key-to-responsible-AI-development.html)
 
 
 ## Influencers 👽
@@ -30,7 +38,6 @@
 - [Global AI Ethics Institute](https://globalethics.ai/)
 - [International Observatory on the Societal Impacts of AI and Digital Technology (OBVIA)](https://observatoire-ia.ulaval.ca/) - mostly in French
 
-
 ## Newsletters 🗞️
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
 - [All Tech is Human](https://alltechishuman.org/)
@@ -49,3 +56,5 @@
 ## Communities 🫂
 - [Inside AI](https://inside.com/ai)
 - [Distributed AI Research Institute](https://www.dair-institute.org/)
+
+## Podcasts 🎙️
