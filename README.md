@@ -13,6 +13,7 @@
 - [15 AI Ethics Leaders Showing The World The Way Of The Future](https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/?sh=a24be076bdf2)
 - [Laura Miller](https://www.linkedin.com/in/lmiller-ethicist/)
 - [Emmanuel R. Goffi, PhD](https://www.linkedin.com/in/emmanuelgoffi/)
+- [Catharina Doria](https://www.linkedin.com/in/catharina-doria/)
 
 ## Organisations 💼
 - [Holistic AI](https://www.holisticai.com/)
@@ -22,6 +23,8 @@
 - [Institute for Ethics in Artificial Intelligence - TUM](https://www.ieai.sot.tum.de/)
 - [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 - [Global AI Ethics Institute](https://globalethics.ai/)
+- [International Observatory on the Societal Impacts of AI and Digital Technology (OBVIA)](https://observatoire-ia.ulaval.ca/) - mostly in French
+- 
 
 ## Newsletters 🗞️
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
@@ -33,3 +36,11 @@
 - [MIT Technology Review](https://www.technologyreview.com/newsletter-preferences/)
 - [Politico’s Digital Bridge](https://www.politico.eu/registration/?utm_source=POLITICO.EU&utm_campaign=a1318cd59c-EMAIL_CAMPAIGN_2023_05_04_11_30&utm_medium=email&utm_term=0_10959edeb5-a1318cd59c-%5BLIST_EMAIL_ID%5D)
 - [Upturn](https://upturn.us7.list-manage.com/subscribe?u=10d58128048e680886e21359f&id=92be680437)
+- [Dr. Ravit Dotan's Newsletter](https://www.ravitdotan.com/newsletter)
+- [Credo AI Newsletter](https://credoainewsletter.beehiiv.com/)
+- [Eye on AI](https://www.eye-on.ai/)
+- [Policy.ai](https://cset.georgetown.edu/newsletters)
+
+## Community 🫂
+- [Inside AI](https://inside.com/ai)
+- 
