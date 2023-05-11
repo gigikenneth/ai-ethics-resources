@@ -5,8 +5,14 @@
 - [Holistic AI: The State of Global AI Regulations in 2023](holisticai.com/papers/the-state-of-ai-regulations-in-2023)
 - [Applying a principle of explicability to AI research in Africa: should we do it?](https://link.springer.com/article/10.1007/s10676-020-09534-2)
 - [US Federal Government AI Use Cases](https://www.responsible.ai/post/federal-government-ai-use-cases)
+- [Dr. Ravit Dotan's AI Ethics Resources](https://www.ravitdotan.com/resources)
 
 ## Influencers
+- [Ravit Dotan, PhD](https://www.ravitdotan.com/)
+- [Elizabeth M. Adams](https://www.linkedin.com/in/lizadams/)
+- [15 AI Ethics Leaders Showing The World The Way Of The Future](https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/?sh=a24be076bdf2)
+- [Laura Miller](https://www.linkedin.com/in/lmiller-ethicist/)
+- [Emmanuel R. Goffi, PhD](https://www.linkedin.com/in/emmanuelgoffi/)
 
 ## Organisations
 - [Holistic AI](https://www.holisticai.com/)
@@ -15,3 +21,5 @@
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
 - [Institute for Ethics in Artificial Intelligence - TUM](https://www.ieai.sot.tum.de/)
 - [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
+- [Global AI Ethics Institute](https://globalethics.ai/)
+
