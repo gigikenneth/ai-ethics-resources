@@ -23,3 +23,8 @@
 - [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 - [Global AI Ethics Institute](https://globalethics.ai/)
 
+## Newsletters
+- [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
+- [All Tech is Human](https://alltechishuman.org/)
+- [Center for AI and Data Policy](https://www.caidp.org/about-2/contact/)
+- 
