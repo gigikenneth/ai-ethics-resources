@@ -19,6 +19,7 @@
 - [Can We Form Relationships With AI Powered Robots?](https://becominghuman.ai/can-we-form-relationships-with-ai-powered-robots-3c9dc2576894)
 - [Ethics of AI: Going Beyond Words](https://www.the-yuan.com/246/Ethics-of-AI-Going-Beyond-Words.html)
 - [The key to responsible AI development](https://www.the-yuan.com/577/The-key-to-responsible-AI-development.html)
+- [AI in Africa: Key Concerns and Policy Considerations for the Future of the Continent - Policy Brief](https://afripoli.org/ai-in-africa-key-concerns-and-policy-considerations-for-the-future-of-the-continent)
 
 
 ## Influencers 👽
