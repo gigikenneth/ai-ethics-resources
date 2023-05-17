@@ -1,4 +1,4 @@
-# Resources on AI Ethics 🤖🌟
+# Resources on AI Ethics & Policies 🤖🌟
 
 ## Books 📚
 - [AI Ethicist: Algorithmic Bias Books, Ethical AI Books, AI Ethics Podcasts | AI Ethicist](https://www.aiethicist.org/recommended-books-podcasts-journals)
