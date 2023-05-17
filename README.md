@@ -9,7 +9,7 @@
 - [AI4People-An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://pubmed.ncbi.nlm.nih.gov/30930541/)
 - [Applying a principle of explicability to AI research in Africa: should we do it?](https://link.springer.com/article/10.1007/s10676-020-09534-2)
 - [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
-- [Applying a principle of explicability to AI research in Africa: should we do it?](https://link.springer.com/article/10.1007/s10676-020-09534-2)[.](https://marycarman.com/wp-content/uploads/2020/05/Applying-a-principle-of-explicability-in-Africa-Revision1.pdf)
+- [Applying a principle of explicability to AI research in Africa: should we do it?](https://marycarman.com/wp-content/uploads/2020/05/Applying-a-principle-of-explicability-in-Africa-Revision1.pdf)
 
 ## Articles 📝
 - [US Federal Government AI Use Cases](https://www.responsible.ai/post/federal-government-ai-use-cases)
