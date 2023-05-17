@@ -1,6 +1,6 @@
 # Resources on AI Ethics & Policies 🤖🌟
 
-## National AI policies & strategies
+## National AI policies & strategies 🌍
 [OECD's live repository of AI policies and strategies](https://oecd.ai/en/dashboards/overview)
 
 ## Books 📚
