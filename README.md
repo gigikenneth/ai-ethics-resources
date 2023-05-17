@@ -1,7 +1,7 @@
 # Resources on AI Ethics & Policies 🤖🌟
 
 ## National AI policies & strategies 🌍
-[OECD's live repository of AI policies and strategies](https://oecd.ai/en/dashboards/overview)
+- [OECD's live repository of AI policies and strategies](https://oecd.ai/en/dashboards/overview)
 
 ## Books 📚
 - [AI Ethicist: Algorithmic Bias Books, Ethical AI Books, AI Ethics Podcasts | AI Ethicist](https://www.aiethicist.org/recommended-books-podcasts-journals)
