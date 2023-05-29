@@ -36,6 +36,7 @@
 - [Catharina Doria](https://www.linkedin.com/in/catharina-doria/)
 
 ## Organisations 💼
+- [African Observatory on Responsible Artificial Intelligence](https://www.africanobservatory.ai/)
 - [Holistic AI](https://www.holisticai.com/)
 - [Responsible Artificial Intelligence Institute](responsible.ai)
 - [Center for AI and Digital Policy](https://www.caidp.org/)
