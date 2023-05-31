@@ -13,6 +13,7 @@
 - [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
 - [A Principle of Explicability in Africa?](https://marycarman.com/wp-content/uploads/2020/05/Applying-a-principle-of-explicability-in-Africa-Revision1.pdf)
 - [Artiﬁcial Intelligence Policies in Africa Over the Next Five Years](https://www.researchgate.net/publication/337503231_Artificial_intelligence_policies_in_Africa_over_the_next_five_years)
+- [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
 
 ## Articles 📝
 - [US Federal Government AI Use Cases](https://www.responsible.ai/post/federal-government-ai-use-cases)
