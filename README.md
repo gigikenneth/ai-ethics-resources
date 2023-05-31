@@ -65,4 +65,13 @@
 - [Inside AI](https://inside.com/ai)
 - [Distributed AI Research Institute](https://www.dair-institute.org/)
 
+## Courses 🤓
+- [Tech Ethics Curricula: A Collection of Syllabi](https://lighthouse3.com/newsletter/)
+- [Fast AI's Practical Data Ethics](https://ethics.fast.ai/)
+
 ## Podcasts 🎙️
+
+## Webinars 📽️
+
+## Others 👀
+- [Fast AI's AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
