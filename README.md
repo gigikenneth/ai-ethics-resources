@@ -28,6 +28,7 @@
 - [The Exploited Labor Behind Artificial Intelligence](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/)
 - [Stop feeding the hype and start resisting](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/)
 - [Harnessing AI for business development: a review of drivers and challenges in Africa](https://www.tandfonline.com/doi/full/10.1080/09537287.2022.2069049)
+- [Artificial Intelligence “Godfathers” Call for Regulation as Rights Groups Warn AI Encodes Oppression](https://www.democracynow.org/2023/6/1/ai_bengio_petty_tegmark)
 
 
 ## Influencers 👽
