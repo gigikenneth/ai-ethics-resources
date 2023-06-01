@@ -24,7 +24,10 @@
 - [Ethics of AI: Going Beyond Words](https://www.the-yuan.com/246/Ethics-of-AI-Going-Beyond-Words.html)
 - [The key to responsible AI development](https://www.the-yuan.com/577/The-key-to-responsible-AI-development.html)
 - [AI in Africa: Key Concerns and Policy Considerations for the Future of the Continent - Policy Brief](https://afripoli.org/ai-in-africa-key-concerns-and-policy-considerations-for-the-future-of-the-continent)
-- [Future of Life Institute AI Policy Resources](https://futureoflife.org/resource/ai-policy-resources/)
+- [Is openness in AI research always the answer?](https://blogs.lse.ac.uk/impactofsocialsciences/2019/07/30/is-openness-in-ai-research-always-the-answer/)
+- [The Exploited Labor Behind Artificial Intelligence](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/)
+- [Stop feeding the hype and start resisting](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/)
+- [Harnessing AI for business development: a review of drivers and challenges in Africa](https://www.tandfonline.com/doi/full/10.1080/09537287.2022.2069049)
 
 
 ## Influencers 👽
@@ -45,6 +48,8 @@
 - [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 - [Global AI Ethics Institute](https://globalethics.ai/)
 - [International Observatory on the Societal Impacts of AI and Digital Technology (OBVIA)](https://observatoire-ia.ulaval.ca/) - mostly in French
+- [Artificial Intelligence for Development Africa](https://africa.ai4d.ai/)
+- [Pollicy](https://pollicy.org/)
 
 ## Newsletters 🗞️
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
@@ -70,9 +75,11 @@
 - [Fast AI's Practical Data Ethics](https://ethics.fast.ai/)
 
 ## Podcasts 🎙️
+- [Lanfrica Talks Podcast](https://podcasters.spotify.com/pod/show/lanfrica-talks-podcast)
 
 ## Webinars 📽️
 - [SaTML 2023 - Timnit Gebru - Eugenics and the Promise of Utopia through AGI](https://www.youtube.com/watch?v=P7XT4TWLzJw&list=WL&index=6&t=65s)
 
 ## Others 👀
 - [Fast AI's AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
+- [Future of Life Institute AI Policy Resources](https://futureoflife.org/resource/ai-policy-resources/)
