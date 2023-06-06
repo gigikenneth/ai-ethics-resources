@@ -80,8 +80,11 @@
 ## Podcasts 🎙️
 - [Lanfrica Talks Podcast](https://podcasters.spotify.com/pod/show/lanfrica-talks-podcast)
 
-## Webinars 📽️
+## Webinars/ Videos 📽️
 - [SaTML 2023 - Timnit Gebru - Eugenics and the Promise of Utopia through AGI](https://www.youtube.com/watch?v=P7XT4TWLzJw&list=WL&index=6&t=65s)
+- [AI and the future of humanity | Yuval Noah Harari at the Frontiers Forum](https://www.youtube.com/watch?v=LWiM-LuRe6w&list=WL&index=7)
+- [Artificial Intelligence, Democracy, & the Future of Civilization | Yoshua Bengio & Yuval Noah Harari](https://www.youtube.com/watch?v=TKopbyIPo6Y&list=WL&index=3)
+- [Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat](https://www.youtube.com/watch?v=bk-nQ7HF6k4&list=WL&index=8)
 
 ## Others 👀
 - [Fast AI's AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
