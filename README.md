@@ -6,6 +6,7 @@
 ## Books 📚
 - [AI Ethicist: Algorithmic Bias Books, Ethical AI Books, AI Ethics Podcasts | AI Ethicist](https://www.aiethicist.org/recommended-books-podcasts-journals)
 - [Holistic AI: The State of Global AI Regulations in 2023](holisticai.com/papers/the-state-of-ai-regulations-in-2023)
+- [Ethics and governance of artificial intelligence for health](https://www.who.int/publications/i/item/9789240029200)
 
 ## Papers 📄
 - [Applying a principle of explicability to AI research in Africa: should we do it?](https://link.springer.com/article/10.1007/s10676-020-09534-2)
@@ -14,6 +15,7 @@
 - [A Principle of Explicability in Africa?](https://marycarman.com/wp-content/uploads/2020/05/Applying-a-principle-of-explicability-in-Africa-Revision1.pdf)
 - [Artiﬁcial Intelligence Policies in Africa Over the Next Five Years](https://www.researchgate.net/publication/337503231_Artificial_intelligence_policies_in_Africa_over_the_next_five_years)
 - [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
+
 
 ## Articles 📝
 - [US Federal Government AI Use Cases](https://www.responsible.ai/post/federal-government-ai-use-cases)
@@ -76,6 +78,8 @@
 ## Courses 🤓
 - [Tech Ethics Curricula: A Collection of Syllabi](https://lighthouse3.com/newsletter/)
 - [Fast AI's Practical Data Ethics](https://ethics.fast.ai/)
+- [Introduction to Responsible AI](https://www.cloudskillsboost.google/course_templates/554)
+- [World Health Organization: Ethics and Governance of Artificial Intelligence for Health](https://openwho.org/courses/ethics-ai/)
 
 ## Podcasts 🎙️
 - [Lanfrica Talks Podcast](https://podcasters.spotify.com/pod/show/lanfrica-talks-podcast)
