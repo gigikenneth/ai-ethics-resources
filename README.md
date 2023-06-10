@@ -79,7 +79,7 @@
 - [Tech Ethics Curricula: A Collection of Syllabi](https://lighthouse3.com/newsletter/)
 - [Fast AI's Practical Data Ethics](https://ethics.fast.ai/)
 - [Introduction to Responsible AI](https://www.cloudskillsboost.google/course_templates/554)
-- [World Health Organization: Ethics and Governance of Artificial Intelligence for Health](https://openwho.org/courses/ethics-ai/)
+- [World Health Organization: Ethics and Governance of Artificial Intelligence for Health Course](https://openwho.org/courses/ethics-ai/)
 
 ## Podcasts 🎙️
 - [Lanfrica Talks Podcast](https://podcasters.spotify.com/pod/show/lanfrica-talks-podcast)
