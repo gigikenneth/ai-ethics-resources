@@ -1,4 +1,4 @@
-# Resources on AI Ethics & Policies 🤖🌟
+# [Resources on AI Ethics & Policies 🤖🌟](https://gigikenneth.github.io/ai-ethical-implications/)
 
 ## National AI policies & strategies 🌍
 - [OECD's live repository of AI policies and strategies](https://oecd.ai/en/dashboards/overview)
@@ -15,6 +15,7 @@
 - [A Principle of Explicability in Africa?](https://marycarman.com/wp-content/uploads/2020/05/Applying-a-principle-of-explicability-in-Africa-Revision1.pdf)
 - [Artiﬁcial Intelligence Policies in Africa Over the Next Five Years](https://www.researchgate.net/publication/337503231_Artificial_intelligence_policies_in_Africa_over_the_next_five_years)
 - [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
+- [Introducing Responsible AI in Africa](https://link.springer.com/chapter/10.1007/978-3-031-08215-3_1)
 
 
 ## Articles 📝
