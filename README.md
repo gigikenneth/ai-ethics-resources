@@ -91,6 +91,7 @@
 - [AI and the future of humanity | Yuval Noah Harari at the Frontiers Forum](https://www.youtube.com/watch?v=LWiM-LuRe6w&list=WL&index=7)
 - [Artificial Intelligence, Democracy, & the Future of Civilization | Yoshua Bengio & Yuval Noah Harari](https://www.youtube.com/watch?v=TKopbyIPo6Y&list=WL&index=3)
 - [Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat](https://www.youtube.com/watch?v=bk-nQ7HF6k4&list=WL&index=8)
+- [A.I. and Stochastic Parrots | FACTUALLY with Emily Bender and Timnit Gebru](https://youtu.be/jAHRbFetqII)
 
 ## Others 👀
 - [Fast AI's AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
