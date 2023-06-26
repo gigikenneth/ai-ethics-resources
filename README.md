@@ -96,3 +96,7 @@
 ## Others 👀
 - [Fast AI's AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
 - [Future of Life Institute AI Policy Resources](https://futureoflife.org/resource/ai-policy-resources/)
+- [Microsoft AI principles](https://www.microsoft.com/en-us/ai/our-approach-to-ai)
+- [Responsible bots: 10 guidelines for developers of conversational AI, Microsoft](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Bot_Guidelines_Nov_2018.pdf)
+- [AI at Google: our principles](https://www.blog.google/technology/ai/ai-principles/)
+- [Responsible AI Practices, Google](https://ai.google/responsibilities/responsible-ai-practices/?category=fairness)
