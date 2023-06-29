@@ -17,6 +17,7 @@
 - [Artiﬁcial Intelligence Policies in Africa Over the Next Five Years](https://www.researchgate.net/publication/337503231_Artificial_intelligence_policies_in_Africa_over_the_next_five_years)
 - [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
 - [Introducing Responsible AI in Africa](https://link.springer.com/chapter/10.1007/978-3-031-08215-3_1)
+- [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
 
 
 ## Articles 📝
@@ -33,6 +34,8 @@
 - [Stop feeding the hype and start resisting](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/)
 - [Harnessing AI for business development: a review of drivers and challenges in Africa](https://www.tandfonline.com/doi/full/10.1080/09537287.2022.2069049)
 - [Artificial Intelligence “Godfathers” Call for Regulation as Rights Groups Warn AI Encodes Oppression](https://www.democracynow.org/2023/6/1/ai_bengio_petty_tegmark)
+- [AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)
+- [Beware the Hype: ChatGPT Didn't Replace Human Data Annotators](https://news.techworkerscoalition.org/2023/04/04/issue-5/)
 
 
 ## Influencers 👽
