@@ -36,6 +36,7 @@
 - [Artificial Intelligence “Godfathers” Call for Regulation as Rights Groups Warn AI Encodes Oppression](https://www.democracynow.org/2023/6/1/ai_bengio_petty_tegmark)
 - [AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)
 - [Beware the Hype: ChatGPT Didn't Replace Human Data Annotators](https://news.techworkerscoalition.org/2023/04/04/issue-5/)
+- [Artificial idiocy is a serious problem that exacerbates existing issues by Slavoj Žižek](https://www.the-yuan.com/578/Artificial-idiocy-is-a-serious-problem-that-exacerbates-existing-issues.html)
 
 
 ## Influencers 👽
