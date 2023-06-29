@@ -84,6 +84,7 @@
 - [World Health Organization: Ethics and Governance of Artificial Intelligence for Health Course](https://openwho.org/courses/ethics-ai/)
 
 ## Podcasts 🎙️
+- [Mystery AI Hype Theater 3000 - Emily M. Bender and Alex Hanna](https://www.buzzsprout.com/2126417)
 - [Lanfrica Talks Podcast](https://podcasters.spotify.com/pod/show/lanfrica-talks-podcast)
 
 ## Webinars/ Videos 📽️
@@ -92,6 +93,7 @@
 - [Artificial Intelligence, Democracy, & the Future of Civilization | Yoshua Bengio & Yuval Noah Harari](https://www.youtube.com/watch?v=TKopbyIPo6Y&list=WL&index=3)
 - [Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat](https://www.youtube.com/watch?v=bk-nQ7HF6k4&list=WL&index=8)
 - [A.I. and Stochastic Parrots | FACTUALLY with Emily Bender and Timnit Gebru](https://youtu.be/jAHRbFetqII)
+- [Mystery AI Hype Theater 3000](https://peertube.dair-institute.org/c/mystery_ai_hype_theater/videos?s=1)
 
 ## Others 👀
 - [Fast AI's AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
