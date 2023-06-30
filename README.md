@@ -5,6 +5,8 @@
 
 ## Books 📚
 - [AI Ethicist: Algorithmic Bias Books, Ethical AI Books, AI Ethics Podcasts | AI Ethicist](https://www.aiethicist.org/recommended-books-podcasts-journals)
+
+## Reports 📑
 - [All Tech is Human: Responsible Tech Guide](https://static1.squarespace.com/static/60355084905d134a93c099a8/t/6321e684008c95453a11747d/1663166091894/Responsible+Tech+Guide+2022+by+All+Tech+Is+Human+AllTechIsHuman.org.pdf)
 - [Holistic AI: The State of Global AI Regulations in 2023](holisticai.com/papers/the-state-of-ai-regulations-in-2023)
 - [World Health Organisation: Ethics and governance of artificial intelligence for health](https://www.who.int/publications/i/item/9789240029200)
@@ -61,6 +63,7 @@
 - [International Observatory on the Societal Impacts of AI and Digital Technology (OBVIA)](https://observatoire-ia.ulaval.ca/) - mostly in French
 - [Artificial Intelligence for Development Africa](https://africa.ai4d.ai/)
 - [Pollicy](https://pollicy.org/)
+- [Africa AI Ethics and Human Rights](https://africanaiethics.com/)
 
 ## Newsletters 🗞️
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
