@@ -40,6 +40,7 @@
 - [Beware the Hype: ChatGPT Didn't Replace Human Data Annotators](https://news.techworkerscoalition.org/2023/04/04/issue-5/)
 - [Artificial idiocy is a serious problem that exacerbates existing issues by Slavoj Žižek](https://www.the-yuan.com/578/Artificial-idiocy-is-a-serious-problem-that-exacerbates-existing-issues.html)
 - [Three proposals to strengthen the EU Artificial Intelligence Act](https://adalovelaceinstitute.org/blog/three-proposals-strengthen-eu-artificial-intelligence-act/)
+- [What the European AI Act Means for You, AI Developer](https://encord.com/blog/what-the-european-ai-act-means-for-you/)
 
 
 ## Influencers 👽
