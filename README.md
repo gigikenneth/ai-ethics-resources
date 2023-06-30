@@ -1,4 +1,4 @@
-# [Resources on AI Ethics & Policies 🤖🌟](https://github.com/gigikenneth/ai-ethics-resources)
+# [Resources on AI Ethics & Policies](https://github.com/gigikenneth/ai-ethics-resources)🤖🌟
 
 ## National AI policies & strategies 🌍
 - [OECD's live repository of AI policies and strategies](https://oecd.ai/en/dashboards/overview)
@@ -39,6 +39,7 @@
 - [AI Is a Lot of Work: As the technology becomes ubiquitous, a vast tasker underclass is emerging — and not going anywhere](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)
 - [Beware the Hype: ChatGPT Didn't Replace Human Data Annotators](https://news.techworkerscoalition.org/2023/04/04/issue-5/)
 - [Artificial idiocy is a serious problem that exacerbates existing issues by Slavoj Žižek](https://www.the-yuan.com/578/Artificial-idiocy-is-a-serious-problem-that-exacerbates-existing-issues.html)
+- [Three proposals to strengthen the EU Artificial Intelligence Act](https://adalovelaceinstitute.org/blog/three-proposals-strengthen-eu-artificial-intelligence-act/)
 
 
 ## Influencers 👽
@@ -64,6 +65,7 @@
 - [Artificial Intelligence for Development Africa](https://africa.ai4d.ai/)
 - [Pollicy](https://pollicy.org/)
 - [Africa AI Ethics and Human Rights](https://africanaiethics.com/)
+- [The Artificial Intelligence Act](https://artificialintelligenceact.eu/)
 
 ## Newsletters 🗞️
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
@@ -110,3 +112,4 @@
 - [Responsible bots: 10 guidelines for developers of conversational AI, Microsoft](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Bot_Guidelines_Nov_2018.pdf)
 - [AI at Google: our principles](https://www.blog.google/technology/ai/ai-principles/)
 - [Responsible AI Practices, Google](https://ai.google/responsibilities/responsible-ai-practices/?category=fairness)
+- [REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206)
