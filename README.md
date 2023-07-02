@@ -41,6 +41,7 @@
 - [Artificial idiocy is a serious problem that exacerbates existing issues by Slavoj Žižek](https://www.the-yuan.com/578/Artificial-idiocy-is-a-serious-problem-that-exacerbates-existing-issues.html)
 - [Three proposals to strengthen the EU Artificial Intelligence Act](https://adalovelaceinstitute.org/blog/three-proposals-strengthen-eu-artificial-intelligence-act/)
 - [What the European AI Act Means for You, AI Developer](https://encord.com/blog/what-the-european-ai-act-means-for-you/)
+- [AI safety technical research - 8000 hours](https://80000hours.org/career-reviews/ai-safety-researcher/)
 
 
 ## Influencers 👽
@@ -82,6 +83,7 @@
 - [Credo AI Newsletter](https://credoainewsletter.beehiiv.com/)
 - [Eye on AI](https://www.eye-on.ai/)
 - [Policy.ai](https://cset.georgetown.edu/newsletters)
+- [Epoch AI](https://epochai.org/)
 
 ## Communities 🫂
 - [Inside AI](https://inside.com/ai)
