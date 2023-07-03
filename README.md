@@ -20,6 +20,7 @@
 - [AI and the Global South: Designing for Other Worlds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403010)
 - [Introducing Responsible AI in Africa](https://link.springer.com/chapter/10.1007/978-3-031-08215-3_1)
 - [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
+- [Principles for the ethical use of artificial intelligence in the United Nations system](https://unsceb.org/principles-ethical-use-artificial-intelligence-united-nations-system)
 
 
 ## Articles 📝
