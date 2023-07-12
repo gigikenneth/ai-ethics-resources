@@ -101,6 +101,7 @@
 ## Podcasts 🎙️
 - [Mystery AI Hype Theater 3000 - Emily M. Bender and Alex Hanna](https://www.buzzsprout.com/2126417)
 - [Lanfrica Talks Podcast](https://podcasters.spotify.com/pod/show/lanfrica-talks-podcast)
+- [Trevor Noah on the Future of Entertainment and AI](https://www.youtube.com/watch?v=4ZD-ZIS2CfU)
 
 ## Webinars/ Videos 📽️
 - [SaTML 2023 - Timnit Gebru - Eugenics and the Promise of Utopia through AGI](https://www.youtube.com/watch?v=P7XT4TWLzJw&list=WL&index=6&t=65s)
