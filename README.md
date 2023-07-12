@@ -69,6 +69,7 @@
 - [Pollicy](https://pollicy.org/)
 - [Africa AI Ethics and Human Rights](https://africanaiethics.com/)
 - [The Artificial Intelligence Act](https://artificialintelligenceact.eu/)
+- [Africa Policy Research Institute (Afripoli)](https://afripoli.org/)
 
 ## Newsletters 🗞️
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
