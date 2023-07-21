@@ -43,6 +43,7 @@
 - [Three proposals to strengthen the EU Artificial Intelligence Act](https://adalovelaceinstitute.org/blog/three-proposals-strengthen-eu-artificial-intelligence-act/)
 - [What the European AI Act Means for You, AI Developer](https://encord.com/blog/what-the-european-ai-act-means-for-you/)
 - [AI safety technical research - 8000 hours](https://80000hours.org/career-reviews/ai-safety-researcher/)
+- [Leading your organization to responsible AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/leading-your-organization-to-responsible-ai)
 
 
 ## Influencers 👽
