@@ -98,6 +98,7 @@
 - [Introduction to Responsible AI](https://www.cloudskillsboost.google/course_templates/554)
 - [World Health Organization: Ethics and Governance of Artificial Intelligence for Health Course](https://openwho.org/courses/ethics-ai/)
 - [IBM: What are AI ethics?](https://www.ibm.com/topics/ai-ethics)
+- [AI Safety Fundamentals](https://aisafetyfundamentals.com/curricula)
 
 ## Podcasts 🎙️
 - [Mystery AI Hype Theater 3000 - Emily M. Bender and Alex Hanna](https://www.buzzsprout.com/2126417)
