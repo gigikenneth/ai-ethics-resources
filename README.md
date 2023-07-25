@@ -44,7 +44,7 @@
 - [What the European AI Act Means for You, AI Developer](https://encord.com/blog/what-the-european-ai-act-means-for-you/)
 - [AI safety technical research - 8000 hours](https://80000hours.org/career-reviews/ai-safety-researcher/)
 - [McKinsey: Leading your organization to responsible AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/leading-your-organization-to-responsible-ai)
-
+- [Harvard Business Review: A Practical Guide to Building Ethical AI by Reid Blackman](https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
