@@ -48,6 +48,7 @@
 - [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
 - [Big tech’s push for automation hides the grim reality of ‘microwork’](https://www.theguardian.com/commentisfree/2021/oct/27/big-techs-push-for-automation-hides-the-grim-reality-of-microwork)
 - ["The digital age is cannibalizing us"](https://www.disconnect.blog/p/the-digital-age-is-cannibalizing)
+- [USING DATA LIKE A DRUNK USES A LAMPPOST](https://mindmatters.ai/2023/07/using-data-like-a-drunk-uses-a-lamppost/)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
