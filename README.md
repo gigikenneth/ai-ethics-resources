@@ -45,6 +45,9 @@
 - [AI safety technical research - 8000 hours](https://80000hours.org/career-reviews/ai-safety-researcher/)
 - [McKinsey: Leading your organization to responsible AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/leading-your-organization-to-responsible-ai)
 - [Harvard Business Review: A Practical Guide to Building Ethical AI by Reid Blackman](https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai)
+- [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
+- [Big tech’s push for automation hides the grim reality of ‘microwork’](https://www.theguardian.com/commentisfree/2021/oct/27/big-techs-push-for-automation-hides-the-grim-reality-of-microwork)
+- ["The digital age is cannibalizing us"](https://www.disconnect.blog/p/the-digital-age-is-cannibalizing)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
