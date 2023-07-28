@@ -54,6 +54,7 @@
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
 - [Joy Buolamwini](https://www.linkedin.com/in/buolamwini)
 - [Ravit Dotan, PhD](https://www.ravitdotan.com/)
+- [Dr. Jeffrey Funk](https://www.linkedin.com/in/dr-jeffrey-funk-a979435)
 - [Elizabeth M. Adams](https://www.linkedin.com/in/lizadams/)
 - [15 AI Ethics Leaders Showing The World The Way Of The Future](https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/?sh=a24be076bdf2)
 - [Laura Miller](https://www.linkedin.com/in/lmiller-ethicist/)
