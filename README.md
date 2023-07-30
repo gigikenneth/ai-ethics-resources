@@ -49,6 +49,7 @@
 - [Big tech’s push for automation hides the grim reality of ‘microwork’](https://www.theguardian.com/commentisfree/2021/oct/27/big-techs-push-for-automation-hides-the-grim-reality-of-microwork)
 - ["The digital age is cannibalizing us"](https://www.disconnect.blog/p/the-digital-age-is-cannibalizing)
 - [USING DATA LIKE A DRUNK USES A LAMPPOST](https://mindmatters.ai/2023/07/using-data-like-a-drunk-uses-a-lamppost/)
+- [AI Compliance: What It Is and Why You Should Care](https://www.exin.com/article/ai-compliance-what-it-is-and-why-you-should-care/)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
