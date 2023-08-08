@@ -101,11 +101,11 @@
 ## Courses 🤓
 - [Tech Ethics Curricula: A Collection of Syllabi](https://lighthouse3.com/newsletter/)
 - [Fast AI's Practical Data Ethics](https://ethics.fast.ai/)
-- [Introduction to Responsible AI](https://www.cloudskillsboost.google/course_templates/554)
+- [Google: Introduction to Responsible AI](https://www.cloudskillsboost.google/course_templates/554)
 - [World Health Organization: Ethics and Governance of Artificial Intelligence for Health Course](https://openwho.org/courses/ethics-ai/)
 - [IBM: What are AI ethics?](https://www.ibm.com/topics/ai-ethics)
 - [AI Safety Fundamentals](https://aisafetyfundamentals.com/curricula)
-- [Operationalising Ethics in AI - Expert](https://www.turing.ac.uk/courses/operationalising-ethics-ai-expert)
+- [The Alan Turing Institute: Operationalising Ethics in AI - Expert](https://www.turing.ac.uk/courses/operationalising-ethics-ai-expert)
 
 ## Podcasts 🎙️
 - [Mystery AI Hype Theater 3000 - Emily M. Bender and Alex Hanna](https://www.buzzsprout.com/2126417)
