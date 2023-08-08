@@ -50,6 +50,7 @@
 - ["The digital age is cannibalizing us"](https://www.disconnect.blog/p/the-digital-age-is-cannibalizing)
 - [USING DATA LIKE A DRUNK USES A LAMPPOST](https://mindmatters.ai/2023/07/using-data-like-a-drunk-uses-a-lamppost/)
 - [AI Compliance: What It Is and Why You Should Care](https://www.exin.com/article/ai-compliance-what-it-is-and-why-you-should-care/)
+- [Beijing’s Big Brother Tech Needs African Faces](https://foreignpolicy.com/2018/07/24/beijings-big-brother-tech-needs-african-faces/)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
