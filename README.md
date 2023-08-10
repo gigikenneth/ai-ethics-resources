@@ -53,6 +53,7 @@
 - [Beijing’s Big Brother Tech Needs African Faces](https://foreignpolicy.com/2018/07/24/beijings-big-brother-tech-needs-african-faces/)
 - [Zoom Contradicts Its Own Policy About Training AI on Your Data](https://gizmodo.com/zoom-ai-privacy-policy-train-on-your-data-1850712655)
 - [Now you can block OpenAI’s web crawler](https://www.theverge.com/2023/8/7/23823046/openai-data-scrape-block-ai)
+- [AI language models are rife with different political biases](https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=LinkedIn)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
