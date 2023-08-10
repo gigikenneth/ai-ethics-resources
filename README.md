@@ -51,6 +51,8 @@
 - [USING DATA LIKE A DRUNK USES A LAMPPOST](https://mindmatters.ai/2023/07/using-data-like-a-drunk-uses-a-lamppost/)
 - [AI Compliance: What It Is and Why You Should Care](https://www.exin.com/article/ai-compliance-what-it-is-and-why-you-should-care/)
 - [Beijing’s Big Brother Tech Needs African Faces](https://foreignpolicy.com/2018/07/24/beijings-big-brother-tech-needs-african-faces/)
+- [Zoom Contradicts Its Own Policy About Training AI on Your Data](https://gizmodo.com/zoom-ai-privacy-policy-train-on-your-data-1850712655)
+- [Now you can block OpenAI’s web crawler](https://www.theverge.com/2023/8/7/23823046/openai-data-scrape-block-ai)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
