@@ -55,6 +55,7 @@
 - [Now you can block OpenAI’s web crawler](https://www.theverge.com/2023/8/7/23823046/openai-data-scrape-block-ai)
 - [AI language models are rife with different political biases](https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=LinkedIn)
 - [OpenAI to Unleash New Web Crawler to Devour More of the Open Web](https://decrypt.co/151662/chatgpt-web-crawler-openai-data-scraper-gptbot-gpt-5)
+- [OpenAI wants GPT-4 to solve the content moderation dilemma](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
