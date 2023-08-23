@@ -112,6 +112,7 @@
 - [IBM: What are AI ethics?](https://www.ibm.com/topics/ai-ethics)
 - [AI Safety Fundamentals](https://aisafetyfundamentals.com/curricula)
 - [The Alan Turing Institute: Operationalising Ethics in AI - Expert](https://www.turing.ac.uk/courses/operationalising-ethics-ai-expert)
+- [Ethics in the Age of Generative AI](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fethics-in-the-age-of-generative-ai%3Ftrk%3Dshare_ent_url%26shareId%3DZMLD5zbVTliP9N1f%252BUmPjw%253D%253D)
 
 ## Podcasts 🎙️
 - [Mystery AI Hype Theater 3000 - Emily M. Bender and Alex Hanna](https://www.buzzsprout.com/2126417)
