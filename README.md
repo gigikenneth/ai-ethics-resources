@@ -87,6 +87,7 @@
 - [Africa Policy Research Institute (Afripoli)](https://afripoli.org/)
 
 ## Newsletters 🗞️
+- [T3THICS - I'm collaborating with awesome people on this, please subscribe!](https://t3thics.substack.com/)
 - [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
 - [All Tech is Human](https://alltechishuman.org/)
 - [Center for AI and Data Policy](https://www.caidp.org/about-2/contact/)
@@ -101,6 +102,8 @@
 - [Eye on AI](https://www.eye-on.ai/)
 - [Policy.ai](https://cset.georgetown.edu/newsletters)
 - [Epoch AI](https://epochai.org/)
+- [The Equation (Ethical Intelligence)](https://www.ethicalintelligence.co/equation)
+- [The Week in Data](https://www.theodi.org/knowledge-opinion/the-week-in-data/)
 
 ## Communities 🫂
 - [Inside AI](https://inside.com/ai)
