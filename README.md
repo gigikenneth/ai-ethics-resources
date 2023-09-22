@@ -85,6 +85,7 @@
 - [Africa AI Ethics and Human Rights](https://africanaiethics.com/)
 - [The Artificial Intelligence Act](https://artificialintelligenceact.eu/)
 - [Africa Policy Research Institute (Afripoli)](https://afripoli.org/)
+- [Open Data Institute](https://www.theodi.org/)
 
 ## Newsletters 🗞️
 - [T3THICS - I'm collaborating with awesome people on this, please subscribe!](https://t3thics.substack.com/)
