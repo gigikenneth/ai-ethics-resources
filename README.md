@@ -6,6 +6,7 @@
 ## Books 📚
 - [AI Ethicist: Algorithmic Bias Books, Ethical AI Books, AI Ethics Podcasts | AI Ethicist](https://www.aiethicist.org/recommended-books-podcasts-journals)
 - [Ethics of Artificial Intelligence Case Studies and Options for Addressing Ethical Challenges](https://link.springer.com/content/pdf/10.1007/978-3-031-17040-9.pdf)
+- [Artificial Intelligence for a Better Future An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies by Bernd Carsten Stahl](https://media.licdn.com/dms/document/media/D4D1FAQH2jLJLesanRA/feedshare-document-pdf-analyzed/0/1695943077955?e=1697068800&v=beta&t=gBADVsTqysm6zFwCQOamU_2ustdE-SQezZScAUlORaY)
 
 ## Reports 📑
 - [All Tech is Human: Responsible Tech Guide](https://static1.squarespace.com/static/60355084905d134a93c099a8/t/6321e684008c95453a11747d/1663166091894/Responsible+Tech+Guide+2022+by+All+Tech+Is+Human+AllTechIsHuman.org.pdf)
