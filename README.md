@@ -7,6 +7,9 @@
 - [AI Ethicist: Algorithmic Bias Books, Ethical AI Books, AI Ethics Podcasts | AI Ethicist](https://www.aiethicist.org/recommended-books-podcasts-journals)
 - [Ethics of Artificial Intelligence Case Studies and Options for Addressing Ethical Challenges](https://link.springer.com/content/pdf/10.1007/978-3-031-17040-9.pdf)
 - [Artificial Intelligence for a Better Future An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies by Bernd Carsten Stahl](https://media.licdn.com/dms/document/media/D4D1FAQH2jLJLesanRA/feedshare-document-pdf-analyzed/0/1695943077955?e=1697068800&v=beta&t=gBADVsTqysm6zFwCQOamU_2ustdE-SQezZScAUlORaY)
+- [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy]()
+- [Stanford Case Study: Algorithmic Decision-Making and Accountability](https://stanford.us21.list-manage.com/track/click?u=b2cf86db9cd57dd76ba0f5686&id=b0c297add0&e=9ccbd649e2)
+
 
 ## Reports 📑
 - [All Tech is Human: Responsible Tech Guide](https://static1.squarespace.com/static/60355084905d134a93c099a8/t/6321e684008c95453a11747d/1663166091894/Responsible+Tech+Guide+2022+by+All+Tech+Is+Human+AllTechIsHuman.org.pdf)
@@ -59,6 +62,9 @@
 - [OpenAI to Unleash New Web Crawler to Devour More of the Open Web](https://decrypt.co/151662/chatgpt-web-crawler-openai-data-scraper-gptbot-gpt-5)
 - [OpenAI wants GPT-4 to solve the content moderation dilemma](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta)
 - [Ethical Intelligence Blog](https://www.ethicalintelligence.co/ei-blog)
+- [HBR: A Guide to Solving Social Problems with Machine Learning](https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning)
+- [Data and Society: Algorithmic Accountability: A Primer](https://datasociety.net/library/algorithmic-accountability-a-primer/)
+- [Beijing’s Big Brother Tech Needs African Faces](https://foreignpolicy.com/2018/07/24/beijings-big-brother-tech-needs-african-faces/)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
