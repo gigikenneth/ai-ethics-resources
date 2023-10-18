@@ -155,3 +155,4 @@
 - [GENERAL DATA PROTECTION REGULATION (GDPR)](https://gdpr-info.eu/art-22-gdpr/)
 - [Responsible Use Guide: your resource for building responsibly](https://ai.meta.com/llama/responsible-use-guide/?ref=blog.streamlit.io)
 - [Strategy for research in artificial intelligence launched](https://www.universityworldnews.com/post.php?story=20210131063348120)
+- [Desireable AI: AI and Responsible Journalism Toolkit](https://www.desirableai.com/journalism-toolkit)
