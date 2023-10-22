@@ -128,7 +128,7 @@
 - [The Alan Turing Institute: Operationalising Ethics in AI - Expert](https://www.turing.ac.uk/courses/operationalising-ethics-ai-expert)
 - [Ethics in the Age of Generative AI](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fethics-in-the-age-of-generative-ai%3Ftrk%3Dshare_ent_url%26shareId%3DZMLD5zbVTliP9N1f%252BUmPjw%253D%253D)
 - [Grokking AI for Engineering & Product Managers](https://www.educative.io/courses/grokking-ai-for-engineering-product-managers)
-- [Artificial Intelligence for Policy Makers](https://online.atingi.org/enrol/index.php?id=3009)
+- [Atingi: Artificial Intelligence for Policy Makers](https://online.atingi.org/enrol/index.php?id=3009)
 
 ## Podcasts 🎙️
 - [Mystery AI Hype Theater 3000 - Emily M. Bender and Alex Hanna](https://www.buzzsprout.com/2126417)
