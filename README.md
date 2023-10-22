@@ -143,6 +143,7 @@
 - [A.I. and Stochastic Parrots | FACTUALLY with Emily Bender and Timnit Gebru](https://youtu.be/jAHRbFetqII)
 - [Mystery AI Hype Theater 3000](https://peertube.dair-institute.org/c/mystery_ai_hype_theater/videos?s=1)
 - [Stanford GSB: Leadership for Society: Our SciFi Future](https://www.knowwhatyousee.com/standford-webinar-series/our-scifi-future)
+- [Perspectives from the Global South by Celina Bottino, Fabro Steibel (AI Ethics: Global Perspectives)](https://www.youtube.com/watch?v=r8utyImyN0M)
 
 ## Others 👀
 - [Fast AI's AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
