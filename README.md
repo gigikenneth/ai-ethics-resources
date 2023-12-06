@@ -9,6 +9,8 @@
 - [Artificial Intelligence for a Better Future An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies by Bernd Carsten Stahl](https://media.licdn.com/dms/document/media/D4D1FAQH2jLJLesanRA/feedshare-document-pdf-analyzed/0/1695943077955?e=1697068800&v=beta&t=gBADVsTqysm6zFwCQOamU_2ustdE-SQezZScAUlORaY)
 - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy]()
 - [Stanford Case Study: Algorithmic Decision-Making and Accountability](https://stanford.us21.list-manage.com/track/click?u=b2cf86db9cd57dd76ba0f5686&id=b0c297add0&e=9ccbd649e2)
+- [Decolonizing Design: A Cultural Justice Guidebook by Elizabeth (Dori) Tunstall](https://mitpress.mit.edu/9780262047692/decolonizing-design/)
+- [Hello World: How to be Human in the Age of the Machine by Hannah Fry](https://www.penguin.com.au/books/hello-world-9781473562424)
 
 
 ## Reports 📑
@@ -134,6 +136,7 @@
 - [Mystery AI Hype Theater 3000 - Emily M. Bender and Alex Hanna](https://www.buzzsprout.com/2126417)
 - [Lanfrica Talks Podcast](https://podcasters.spotify.com/pod/show/lanfrica-talks-podcast)
 - [Trevor Noah on the Future of Entertainment and AI](https://www.youtube.com/watch?v=4ZD-ZIS2CfU)
+- [Tech Won't Save Us](https://open.spotify.com/show/3UhsI7s4bkH1FcMZI5u9iD?si=35efe58bbcfa4cd7&nd=1&dlsi=783f4f21c0cb4576)
 
 ## Webinars/ Videos 📽️
 - [SaTML 2023 - Timnit Gebru - Eugenics and the Promise of Utopia through AGI](https://www.youtube.com/watch?v=P7XT4TWLzJw&list=WL&index=6&t=65s)
