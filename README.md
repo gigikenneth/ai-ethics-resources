@@ -7,7 +7,7 @@
 - [AI Ethicist: Algorithmic Bias Books, Ethical AI Books, AI Ethics Podcasts | AI Ethicist](https://www.aiethicist.org/recommended-books-podcasts-journals)
 - [Ethics of Artificial Intelligence Case Studies and Options for Addressing Ethical Challenges](https://link.springer.com/content/pdf/10.1007/978-3-031-17040-9.pdf)
 - [Artificial Intelligence for a Better Future An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies by Bernd Carsten Stahl](https://media.licdn.com/dms/document/media/D4D1FAQH2jLJLesanRA/feedshare-document-pdf-analyzed/0/1695943077955?e=1697068800&v=beta&t=gBADVsTqysm6zFwCQOamU_2ustdE-SQezZScAUlORaY)
-- [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy]()
+- [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/en/book/show/28186015)
 - [Stanford Case Study: Algorithmic Decision-Making and Accountability](https://stanford.us21.list-manage.com/track/click?u=b2cf86db9cd57dd76ba0f5686&id=b0c297add0&e=9ccbd649e2)
 - [Decolonizing Design: A Cultural Justice Guidebook by Elizabeth (Dori) Tunstall](https://mitpress.mit.edu/9780262047692/decolonizing-design/)
 - [Hello World: How to be Human in the Age of the Machine by Hannah Fry](https://www.penguin.com.au/books/hello-world-9781473562424)
