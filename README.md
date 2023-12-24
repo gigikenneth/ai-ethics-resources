@@ -8,10 +8,10 @@
 5. [Articles](#articles-)
 6. [Influencers](#influencers-)
 7. [Organisations](#organisations-)
-8. [Newsletters](#newsletters-)
+8. [Newsletters](#newsletters-%EF%B8%8F)
 9. [Communities](#communities-)
 10. [Courses](#courses-)
-11. [Podcasts](#podcasts-)
+11. [Podcasts](#podcasts-%EF%B8%8F)
 12. [Videos](#videos-%EF%B8%8F)
 13. [Others](#others-)
 ___
