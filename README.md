@@ -1,19 +1,19 @@
 # [Resources on AI Ethics & Policies](https://github.com/gigikenneth/ai-ethics-resources)🤖🌟
 
 ## Table of Contents
-- [National AI policies & strategies 🌍](https://github.com/gigikenneth/ai-ethics-resources?tab=readme-ov-file#national-ai-policies--strategies-)
-- Books 📚
-- Reports 📑
-- Papers 📄
-- Articles 📝
-- Influencers 👽
-- Organisations 💼
-- Newsletters 🗞️
-- Communities 🫂
-- Courses 🤓
-- Podcasts 🎙️
-- Webinars/ Videos 📽️
-- Others 👀
+1. [National AI Policies & Strategies](#national-ai-policies--strategies-)
+2. [Books](#books-)
+3. [Reports](#reports-)
+4. [Papers](#papers-)
+5. [Articles](#articles-)
+6. [Influencers](#influencers-)
+7. [Organisations](#organisations-)
+8. [Newsletters](#newsletters-)
+9. [Communities](#communities-)
+10. [Courses](#courses-)
+11. [Podcasts](#podcasts-)
+12. [Webinars/Videos](#webinars-videos-)
+13. [Others](#others-)
 ___
 
 ## National AI policies & strategies 🌍
