@@ -12,7 +12,7 @@
 9. [Communities](#communities-)
 10. [Courses](#courses-)
 11. [Podcasts](#podcasts-)
-12. [Webinars/Videos](#webinars-videos-)
+12. [Videos](#videos-)
 13. [Others](#others-)
 ___
 
@@ -154,7 +154,7 @@ ___
 - [Trevor Noah on the Future of Entertainment and AI](https://www.youtube.com/watch?v=4ZD-ZIS2CfU)
 - [Tech Won't Save Us](https://open.spotify.com/show/3UhsI7s4bkH1FcMZI5u9iD?si=35efe58bbcfa4cd7&nd=1&dlsi=783f4f21c0cb4576)
 
-## Webinars/ Videos 📽️
+## Videos 📽️
 - [SaTML 2023 - Timnit Gebru - Eugenics and the Promise of Utopia through AGI](https://www.youtube.com/watch?v=P7XT4TWLzJw&list=WL&index=6&t=65s)
 - [AI and the future of humanity | Yuval Noah Harari at the Frontiers Forum](https://www.youtube.com/watch?v=LWiM-LuRe6w&list=WL&index=7)
 - [Artificial Intelligence, Democracy, & the Future of Civilization | Yoshua Bengio & Yuval Noah Harari](https://www.youtube.com/watch?v=TKopbyIPo6Y&list=WL&index=3)
