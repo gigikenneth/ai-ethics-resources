@@ -12,7 +12,7 @@
 9. [Communities](#communities-)
 10. [Courses](#courses-)
 11. [Podcasts](#podcasts-)
-12. [Videos](#videos-)
+12. [Videos](#videos-%EF%B8%8F)
 13. [Others](#others-)
 ___
 
