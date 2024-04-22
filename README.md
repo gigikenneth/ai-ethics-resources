@@ -44,6 +44,7 @@ ___
 - [Introducing Responsible AI in Africa](https://link.springer.com/chapter/10.1007/978-3-031-08215-3_1)
 - [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
 - [Principles for the ethical use of artificial intelligence in the United Nations system](https://unsceb.org/principles-ethical-use-artificial-intelligence-united-nations-system)
+- [Who are the publics engaging in AI?](https://journals.sagepub.com/doi/10.1177/09636625231219853)
 
 
 ## Articles 📝
