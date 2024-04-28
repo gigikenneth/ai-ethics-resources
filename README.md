@@ -27,6 +27,7 @@ ___
 - [Stanford Case Study: Algorithmic Decision-Making and Accountability](https://stanford.us21.list-manage.com/track/click?u=b2cf86db9cd57dd76ba0f5686&id=b0c297add0&e=9ccbd649e2)
 - [Decolonizing Design: A Cultural Justice Guidebook by Elizabeth (Dori) Tunstall](https://mitpress.mit.edu/9780262047692/decolonizing-design/)
 - [Hello World: How to be Human in the Age of the Machine by Hannah Fry](https://www.penguin.com.au/books/hello-world-9781473562424)
+- [Introduction to AI Safety, Ethics, and Society](https://www.aisafetybook.com/)
 
 
 ## Reports 📑
