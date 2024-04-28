@@ -113,6 +113,7 @@ ___
 - [The Artificial Intelligence Act](https://artificialintelligenceact.eu/)
 - [Africa Policy Research Institute (Afripoli)](https://afripoli.org/)
 - [Open Data Institute](https://www.theodi.org/)
+- [Algorithm Watch](https://algorithmwatch.org/en/)
 
 ## Newsletters 🗞️
 - [T3THICS - I'm collaborating with awesome people on this, please subscribe!](https://t3thics.substack.com/)
