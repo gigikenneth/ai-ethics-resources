@@ -88,6 +88,7 @@ ___
 - [Beijing’s Big Brother Tech Needs African Faces](https://foreignpolicy.com/2018/07/24/beijings-big-brother-tech-needs-african-faces/)
 - [WandaVision actor says Disney scanned her face & body without permission](https://www.dexerto.com/tv-movies/wandavision-actor-says-disney-ai-scanned-face-body-without-permission-2235228/)
 - [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf)
+- [Speaking to Congressional staffers about AI risk](https://www.lesswrong.com/posts/2sLwt2cSAag74nsdN/speaking-to-congressional-staffers-about-ai-risk)
 
 ## Influencers 👽
 - [Timnit Gebru](https://www.linkedin.com/in/timnit-gebru-7b3b407)
